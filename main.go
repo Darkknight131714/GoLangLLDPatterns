@@ -4,6 +4,7 @@ package main
 func main() {
 	//FactoryPatternExample()
 	//SingletonPatternExample()
-	AbstractFactoryPatternExample("Batman")
-	AbstractFactoryPatternExample("Superman")
+	//AbstractFactoryPatternExample("Batman")
+	//AbstractFactoryPatternExample("Superman")
+	BuilderPatternExample()
 }
